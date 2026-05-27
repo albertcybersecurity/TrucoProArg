@@ -1,0 +1,1 @@
+TrucoPro AR listo para GitHub Pages. Subir index.html, .nojekyll y README.md a la raíz. Activar Pages en main / root.
